@@ -1,0 +1,12 @@
+AccessModifierOffset: -1
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignOperands: true
+BasedOnStyle: LLVM
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeBraces: Stroustrup
+ColumnLimit: 100
+IndentAccessModifiers: false
+IndentWidth: 2
+InsertNewlineAtEOF: true
